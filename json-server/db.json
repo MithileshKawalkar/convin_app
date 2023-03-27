@@ -1,0 +1,161 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "history": [
+    {
+      "title": "Introduction to HTML",
+      "link": "https://www.youtube.com/embed/UB1O30fR-EE",
+      "time": "Mar 27 2023 21:19:25",
+      "id": 1
+    },
+    {
+      "title": "CSS Crash Course",
+      "link": "https://www.youtube.com/embed/sBws8MSXN7A",
+      "time": "Mar 27 2023 21:19:32",
+      "id": 2
+    },
+    {
+      "title": "JavaScript Basics",
+      "link": "https://www.youtube.com/embed/Y0lDGjwRYKw",
+      "time": "Mar 27 2023 21:19:42",
+      "id": 3
+    },
+    {
+      "title": "JavaScript Basics",
+      "link": "https://www.youtube.com/embed/Y0lDGjwRYKw",
+      "time": "Mar 27 2023 21:20:12",
+      "id": 4
+    },
+    {
+      "title": "Node.js Basics",
+      "link": "https://www.youtube.com/embed/PKwu15ldZ7k",
+      "time": "Mar 27 2023 21:21:19",
+      "id": 5
+    },
+    {
+      "title": "Node.js Basics",
+      "link": "https://www.youtube.com/embed/PKwu15ldZ7k",
+      "time": "Mar 27 2023 21:21:38",
+      "id": 6
+    },
+    {
+      "title": "Tumse milke dil ka",
+      "link": "https://www.youtube.com/embed/mXkbWKr5ovU",
+      "time": "Mar 27 2023 21:24:37",
+      "id": 7
+    },
+    {
+      "title": "Shape of You- Ed Sheeran",
+      "link": "https://www.youtube.com/embed/JGwWNGJdvx8",
+      "time": "Mar 27 2023 21:25:47",
+      "id": 8
+    },
+    {
+      "title": "Satyamev Jayate",
+      "link": "https://www.youtube.com/embed/MXg6Usdjl5c",
+      "time": "Mar 27 2023 21:26:38",
+      "id": 9
+    }
+  ],
+  "buckets": [
+    {
+      "id": 1,
+      "name": "Education videos",
+      "cards": [
+        {
+          "cardId": 1,
+          "name": "India's Geography: Physical Features",
+          "link": "https://www.youtube.com/embed/fv86ULa2P1I"
+        },
+        {
+          "cardId": 5,
+          "name": "Basics of Indian Polity: Separation of Powers",
+          "link": "https://www.youtube.com/embed/v29nHmn3C40"
+        },
+        {
+          "cardId": 2,
+          "name": "Introduction to Indian Economy",
+          "link": "https://www.youtube.com/embed/ghzkZTT5yvQ"
+        },
+        {
+          "cardId": 3,
+          "name": "History of India: Indus Valley Civilization",
+          "link": "https://www.youtube.com/embed/Lr7GMr1NzV0"
+        },
+        {
+          "cardId": 4,
+          "name": "Indian Constitution: Preamble and Features",
+          "link": "https://www.youtube.com/embed/LYHAy68pQWA"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Music videos",
+      "cards": [
+        {
+          "cardId": 1,
+          "name": "Tumse milke dil ka",
+          "link": "https://www.youtube.com/embed/mXkbWKr5ovU"
+        },
+        {
+          "cardId": 2,
+          "name": "Shape of You- Ed Sheeran",
+          "link": "https://www.youtube.com/embed/JGwWNGJdvx8"
+        },
+        {
+          "cardId": 3,
+          "name": "Satyamev Jayate",
+          "link": "https://www.youtube.com/embed/MXg6Usdjl5c"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Coding",
+      "cards": [
+        {
+          "cardId": 1,
+          "link": "https://www.youtube.com/embed/UB1O30fR-EE",
+          "name": "Introduction to HTML"
+        },
+        {
+          "cardId": 2,
+          "link": "https://www.youtube.com/embed/sBws8MSXN7A",
+          "name": "CSS Crash Course"
+        },
+        {
+          "cardId": 3,
+          "name": "GraphQL Basics",
+          "link": "https://www.youtube.com/embed/Y0lDGjwRYKw"
+        },
+        {
+          "cardId": 4,
+          "name": "React.js Basics",
+          "link": "https://www.youtube.com/embed/PKwu15ldZ7k"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Tum se hi",
+      "cards": [
+        {
+          "cardId": 1,
+          "name": "Tum se hi din hota hai",
+          "link": "https://www.youtube.com/embed/mt9xg0mmt28"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "qwerty",
+      "cards": []
+    }
+  ]
+}
